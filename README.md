@@ -11,4 +11,4 @@ This is a chat application written in Flask. The purpose of this project is to t
 - Flask
 
 ## Live link 
-[ChatRoom](https://chatroom-flask-app.herokuapp.com/)
+[ChatRoom App](https://chatroom-flask-app.herokuapp.com/)
